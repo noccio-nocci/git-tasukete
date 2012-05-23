@@ -6,3 +6,4 @@ if [ ! -n "$1" ]; then
 fi
 
 git reset HEAD $1
+
